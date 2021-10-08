@@ -39,7 +39,7 @@ function setup()
   Composite.add(rope.body,fruit)
   link = new Link(rope,fruit)
   link2 = new Link(rope2,fruit)
-  rabbit = createSprite(350,550)
+  rabbit = createSprite(350,450)
 
   blink.frameDelay = 20
   eating.frameDelay = 20
